@@ -3,7 +3,8 @@ My Profile
 
 | Site | URL |
 |:-:|:-:|
-|Pawoo | <https://pawoo.net/@metalphaeton> |
+| Pawoo | <https://pawoo.net/@metalphaeton> |
+| Misskey.io | <https://misskey.io/@MetalPhaeton> |
 
 <!--
 **MetalPhaeton/MetalPhaeton** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
