@@ -4,6 +4,7 @@ My Profile
 | Site | URL |
 |:-:|:-:|
 | Misskey.io | <https://misskey.io/@MetalPhaeton> |
+| X | <https://x.com/MetalPhaeton> |
 | Pawoo | <https://pawoo.net/@metalphaeton> |
 
 <!--
