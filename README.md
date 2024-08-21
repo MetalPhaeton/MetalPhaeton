@@ -5,6 +5,7 @@ My Profile
 |:-:|:-:|
 | Misskey.io | <https://misskey.io/@MetalPhaeton> |
 | X | <https://x.com/MetalPhaeton> |
+| pixiv | <https://www.pixiv.net/users/3977871> |
 | Pawoo | <https://pawoo.net/@metalphaeton> |
 
 <!--
